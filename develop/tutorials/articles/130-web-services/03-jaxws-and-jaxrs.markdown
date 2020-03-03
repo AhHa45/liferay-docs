@@ -169,8 +169,8 @@ that appears lets you configure a new REST extender by filling out these fields:
   returned by the `getSingletons()` method of `javax.ws.rs.core.Application`. 
   The following links list some of the supported JAX-RS providers: 
 
-    - [JAX-RS Entity Providers](https://jersey.java.net/documentation/latest/message-body-workers.html) 
-    - [Filters and Interceptors](https://jersey.java.net/documentation/latest/filters-and-interceptors.html) 
+    - [JAX-RS Entity Providers](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/message-body-workers.html) 
+    - [Filters and Interceptors](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/filters-and-interceptors.html) 
 
 - **jax.rs.service.filters:** Here you can specify a set of OSGi filters that 
   selects services registered in the OSGi framework that are valid JAX-RS 
